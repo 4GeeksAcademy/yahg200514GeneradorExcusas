@@ -28,6 +28,5 @@ window.onload = function() {
   }
 
   let excuse = generateExcuse();
-
   document.querySelector("#excuse").innerText = excuse;
 };
